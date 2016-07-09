@@ -1,0 +1,27 @@
+{
+  "name": "sully",
+  "version": "0.0.1",
+  "description": "A monster of a basic selenium JSONWP client implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "sully",
+    "jsonwp",
+    "selenium"
+  ],
+  "author": "Ezo Saleh <npm@ezosaleh.com> (http://ezosaleh.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "highland": "^3.0.0-beta.2",
+    "superagent": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "engines": {
+    "node": "4.2.4",
+    "npm": "2.14.12"
+  }
+}
