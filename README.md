@@ -8,7 +8,7 @@ I spent about 1.5 hours fighting Safari, selenium and some NPM peer dependencies
 
 I started by using curl to figure out the API. This helped me fix a ton of issues with browsers, unknown payloads, etc..
 
-I left my curl documentation in the RunningWithCurl.md file.
+I left my curl documentation in the [RunningWithCurl.md](https://github.com/ezodude/sully/blob/master/RunningWithCurl.md) file.
 
 ## General issues:
 
@@ -19,7 +19,7 @@ I left my curl documentation in the RunningWithCurl.md file.
 
 ## Testing:
 
-The basic test is found in [basicClient.js](). To run this,
+The basic test is found in [basicClient.js](https://github.com/ezodude/sully/blob/master/test/basicClient.js). To run this,
 
 
 * Run selenium:
