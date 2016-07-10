@@ -14,7 +14,7 @@ I left my curl documentation in the [RunningWithCurl.md](https://github.com/ezod
 
 ## General issues
 
-* As mentioned above, I had massive issues with with Safari. In the end I fell back onto Firefox.
+* As mentioned above, I had massive issues with Safari. In the end I fell back onto Firefox.
 
 * I upgraded to the latest Selenium Jar while trying to get Safari to work: selenium-server-standalone-2.53.1.jar
 
